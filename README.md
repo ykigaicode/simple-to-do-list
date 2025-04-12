@@ -19,6 +19,7 @@ Manage your daily tasks with ease: add, edit, delete, and switch between **dark 
 ## 📸 Preview
 <img width="605" alt="image" src="https://github.com/user-attachments/assets/2e1af5c3-2f10-460c-b15c-6e8f6a645534" />
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/d1811ba6-c1e3-43f2-8057-236a82e511dd" />
+
 *Light and dark modes available*
 
 ---
